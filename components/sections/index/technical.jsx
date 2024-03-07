@@ -42,8 +42,8 @@ export default function Technical() {
 							containerClass={about.container}
 						/>
 						<BadgesBlock 
-							title="Software I love to work with" 
-							copy="With over 20 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
+							title="Software I work with" 
+							copy="With over 3 years of experience creating digital assets, I have a deep and intuitive understanding of how the interfaces of the best software products in the world are designed. This is just some of the software I have used over that time."
 							list={software}
 							block="software" 
 							fullContainer="fullContainer"
@@ -52,7 +52,7 @@ export default function Technical() {
 							headerIcon={about.icon} 
 						/>
 						<BadgesBlock 
-							title="Technologies I love to build with" 
+							title="Technologies I build with" 
 							copy="I deeply enjoy solving problems through code. From the front end all the way to the back end and the APIs in-between. No project is too challenging for me."
 							list={tech} 
 							block="tech"
@@ -86,6 +86,7 @@ const software = [
 
 const tech	= [
 	{ key: 'javascript', 	name: 'JavaScript', 		type: 'devicon' },
+	{ key: 'csharp', 		name: 'C#',			 		type: 'devicon' },
 	{ key: 'nodejs', 		name: 'NodeJS', 			type: 'devicon' },
 	{ key: 'react', 		name: 'React', 				type: 'devicon' },
 	{ key: 'nextjs', 		name: 'NextJS', 			type: 'devicon' },
@@ -93,11 +94,14 @@ const tech	= [
 	{ key: 'php', 			name: 'PHP', 				type: 'devicon' },
 	{ key: 'wordpress', 	name: 'WordPress', 			type: 'devicon' },
 	{ key: 'woocommerce', 	name: 'WooCommerce', 		type: 'devicon' },
+	{ key: 'terraform', 	name: 'Terraform',	 		type: 'devicon' },
 	{ key: "google",		name: "GA4/GTM", 			type: "devicon" },
-	{ key: 'html5', 		name: 'HTML5', 				type: 'devicon' },
-	{ key: 'css3', 			name: 'CSS3', 				type: 'devicon' },
+	{ key: 'html5', 		name: 'HTML5', 				type: 'devicon' },		
+	{ key: 'docker',		name: 'Docker',				type: 'devicon' },
+	{ key: 'jenkins',		name: 'Jenkins',			type: 'devicon' },
 	{ key: 'sass', 			name: 'SASS', 				type: 'devicon' },
 	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
 	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
 	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
+	
 ]

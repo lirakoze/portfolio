@@ -32,10 +32,10 @@ export default function Career() {
 					<article className={career.company}>
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
-								<h3>My Supply Co.</h3>
+								<h3>Jofar Group Ltd.</h3>
 								<h4>Permanent Full-time</h4>
-								<h4>Apr 2019 - Present · 3 yrs 10 mos</h4>
-								<h5>Vancouver, British Columbia, Canada</h5>
+								<h4>July 2022 - Present · 2 yrs </h4>
+								<h5>Nairobi, Nairobi City, Kenya</h5>
 							</span>
 							<p>
 							My Supply Co. helps Canadians manage mental and physical health with naturally occurring nootropic and adaptogenic products. They carry products with complex attributes, aiming to solve a large variety of personal care needs — this requires an extremely customized and evolving approach to how the store is built and functions.
@@ -45,23 +45,11 @@ export default function Career() {
 					</article>
 
 					<article className={career.companyPositions}>
-						<div className={career.position}>
-							<div className={career.positionContent}>
-								<span class={career.positionHeader}>
-									<h3>Director of Product Design and Development</h3>
-									<h4>Nov 2021 - Present · 1 yrs 3 mos</h4>
-								</span>
-								<p>
-								I am responsible for the ideation, planning, and development of new consumer goods—and customer and employee facing microservice software. During these projects I work with key stakeholders within our company and supplychain to ensure and meet quality goals across multiple domains.
-								</p>
-							</div>
-							<div className={career.positionAlt}></div>
-						</div>
 
 						<div className={career.position}>
 							<div className={career.positionContent}>
 								<span class={career.positionHeader}>
-									<h3>Full Stack Developer & User Experience Designer</h3>
+									<h3>Software Engineer | DevOps</h3>
 									<h4>Feb 2020 - Nov 2021 · 1 yrs 10 mos</h4>
 								</span>
 								<p>
@@ -96,8 +84,8 @@ export default function Career() {
 						<div className={career.position}>
 							<div className={career.positionContent}>
 									<span class={career.positionHeader}>
-										<h3>Front End Developer & User Interface Designer</h3>
-										<h4>Apr 2019 - Feb 2020 · 11 mos</h4>
+										<h3>Backend Developer</h3>
+										<h4>July 2022 - February 2023 · 6 mos</h4>
 									</span>
 								<p>
 									I was brought on to help fill multiple creative rolls in a small start-up environment. Working with the marketing team to create the brand and logos — designing and developing a new front end for the website — and improving the users experience and store KPIs through design and merchandising optimizations.
@@ -127,10 +115,10 @@ export default function Career() {
 					<article className={career.company}>
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
-								<h3>Another Creative Ltd.</h3>
+								<h3>Sarami Africa Ltd.</h3>
 								<h4>Contract Part-time</h4>
-								<h4>Jun 2016 - Present · 6 yrs 8 mos</h4>
-								<h5>Vancouver, British Columbia, Canada</h5>
+								<h4>January 2021 - March 2022 · 1 yrs 3 mos</h4>
+								<h5>Nairobi, Kenya</h5>
 							</span>
 							<p>
 							Another Creative is a full stack agency that helps deliver exceptional digital experiences to small and medium businesses. Branding, Marketing, and Web/Software Development.
@@ -142,10 +130,10 @@ export default function Career() {
 					<article className={career.company}>
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
-								<h3>West Coast Electronics</h3>
-								<h4>Permanent Full-time</h4>
-								<h4>Jan 2006 - Nov 2011 · 5 yrs 11 mos</h4>
-								<h5>Vancouver, British Columbia, Canada</h5>
+								<h3>App Factory</h3>
+								<h4>Software Engineering Intern</h4>
+								<h4>May 2022 - August 2022 · 3 mos</h4>
+								<h5>Nairobi, Kenya</h5>
 							</span>
 							<p>I was the Electronics Wizard 🧙‍♂️</p>
 							<p>West Coast Electronics was a repair shop that fixed computers, consoles, and cell phones.</p>

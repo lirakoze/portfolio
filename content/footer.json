@@ -32,19 +32,15 @@
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
-			"icon": "medium"
-		},
-		{
-			"url": "https://dev.to/andrewnelson",
+			"url": "https://iracodes.com",
 			"icon": "dev"
 		},
 		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/in/lionel-irakoze/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/lirakoze",
 			"icon": "github"
 		}
 	]

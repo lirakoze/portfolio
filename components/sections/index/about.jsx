@@ -30,16 +30,16 @@ export default function About() {
 				<SectionTitle
 					title="About Me"
 					preTitle="Synopsis"
-					subTitle="With a diverse skill set that includes UX design, UI design, full stack development, operational architecture, systems design, photography, and branding, I am a well-rounded digital professional."
+					subTitle="I am a results-driven software engineer with over 3 years of experience, possessing a passion for crafting robust, efficient, and innovative solutions. With a strong background in backend development, I thrive on tackling complex challenges and turning them into elegant, user-friendly software."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="/img/family-photo.jpg" alt="Nelson family photo"/>
-						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
+						{/* <img src="/public/img/profile.JPG" alt="Lionel Irakoze photo"/> */}
+						<Image src="/img/profile.JPG" width={600} height={800}/>
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="Softskills"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
