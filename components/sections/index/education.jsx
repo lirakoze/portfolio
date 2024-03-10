@@ -26,7 +26,7 @@ export default function Education() {
 				<SectionTitle
 					title="Education"
 					preTitle="Journey"
-					subTitle="I am current managing, designing, and developing all consumer and digital product initiatives at My Supply Co."
+					subTitle="I am currently pursuing a Masters Degree in Software Engineering."
 				/>
 				<section className={career.area}>
 					<article className={career.company}>

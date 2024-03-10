@@ -38,7 +38,7 @@ export default function Career() {
 								<h5>Nairobi, Nairobi City, Kenya</h5>
 							</span>
 							<p>
-							My Supply Co. helps Canadians manage mental and physical health with naturally occurring nootropic and adaptogenic products. They carry products with complex attributes, aiming to solve a large variety of personal care needs — this requires an extremely customized and evolving approach to how the store is built and functions.
+								At Jofar Group Ltd, I lead cross-functional project teams, ensuring timely delivery and adherence to quality standards. I establish a reliable infrastructure by implementing AWS and Google Cloud services. Developing RESTful APIs enhances data transfer efficiency between front-end and back-end systems, optimizing application performance. Additionally, close collaboration with the frontend team on API integration improves the overall user experience of our software solutions.
 							</p>
 						</div>
 						<div className={career.companyAlt}></div>
@@ -121,8 +121,9 @@ export default function Career() {
 								<h5>Nairobi, Kenya</h5>
 							</span>
 							<p>
-							Another Creative is a full stack agency that helps deliver exceptional digital experiences to small and medium businesses. Branding, Marketing, and Web/Software Development.
+							At Sarami Africa Ltd, my responsibilities included designing and implementing essential microservices crucial to our platform, enabling small businesses to access loans more efficiently. I work collaboratively with cross-functional teams, including UX designers and QA engineers, to ensure seamless development processes and deliver high-quality user experiences. Implementing CI/CD pipelines with GitHub Actions and Docker streamlines our software development and deployment workflows. Following Agile methodologies in Scrum, I actively participate in sprint planning, stand-ups, and retrospectives to ensure efficient project delivery.
 							</p>
+							<Badges list={backend} block="stack" fullContainer="fullContainer"/>
 						</div>
 						<div className={career.companyAlt}></div>
 					</article>
@@ -136,7 +137,9 @@ export default function Career() {
 								<h5>Nairobi, Kenya</h5>
 							</span>
 							<p>I was the Electronics Wizard 🧙‍♂️</p>
-							<p>West Coast Electronics was a repair shop that fixed computers, consoles, and cell phones.</p>
+							<p>
+							During my tenure at App Factory, I implemented RESTful APIs to facilitate seamless communication between various services, enhancing the overall performance and functionality of our software products. Utilizing Git for version control, I collaborated with team members to maintain a clean and organized codebase. Working closely with diverse, cross-functional teams, including UX designers and QA engineers, streamlined the development process and ensured consistent delivery of high-quality software solutions. Deploying and managing applications on AWS using EC2 instances ensured high availability, scalability, and reliability of our software products.
+							</p>
 						</div>
 						<div className={career.companyAlt}></div>
 					</article>
@@ -156,6 +159,21 @@ const fullStack	= [
 	{ key: 'woocommerce', 	name: 'WooCommerce', 		type: 'devicon' },
 	{ key: 'html5', 		name: 'HTML5', 				type: 'devicon' },
 	{ key: 'css3', 			name: 'CSS3', 				type: 'devicon' },
+	{ key: 'sass', 			name: 'SASS', 				type: 'devicon' },
+	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
+	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
+	{ key: 'mongodb', 		name: 'MongoDB', 			type: 'devicon' },
+]
+
+const backend	= [
+	{ key: 'javascript', 	name: 'JavaScript', 		type: 'devicon' },
+	{ key: 'nodejs', 		name: 'NodeJS', 			type: 'devicon' },
+	{ key: 'react', 		name: 'React', 				type: 'devicon' },
+	{ key: 'jenkins', 		name: 'Jenkins', 			type: 'devicon' },	
+	{ key: 'csharp',	 	name: 'C#',		 			type: 'devicon' },
+	{ key: 'amazonwebservices', 	name: 'AWS', 		type: 'devicon' },
+	{ key: 'jira', 			name: 'JIRA', 				type: 'devicon' },
+	{ key: 'android', 		ame: 'Android', 				type: 'devicon' },
 	{ key: 'sass', 			name: 'SASS', 				type: 'devicon' },
 	{ key: 'git', 			name: 'Git', 				type: 'devicon' },
 	{ key: 'mysql', 		name: 'MySQL', 				type: 'devicon' },
