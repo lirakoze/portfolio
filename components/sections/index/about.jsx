@@ -35,7 +35,7 @@ export default function About() {
 				<section className={about.content}>
 					<div className={about.image}>
 						{/* <img src="/public/img/profile.JPG" alt="Lionel Irakoze photo"/> */}
-						<Image src="/img/profile.JPG" width={600} height={800}/>
+						<Image src="/img/profile.JPG" width={600} height={800} alt="Iracodes Profile"/>
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 

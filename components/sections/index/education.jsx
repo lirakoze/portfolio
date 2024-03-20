@@ -37,9 +37,7 @@ export default function Education() {
 								<h5>Nairobi, Kenya. January 2019 - Semptember 2022 </h5>
 							</span>
 							<p>
-							Graduated with honors (Cum Laude) and Achieved Dean's List Academic Award for maintaining a consistent 
-                            GPA of 3.5/4.0 throughout the academic years 2019-2022.
-
+							Graduated with honors (Cum Laude) and Achieved Dean's List Academic Award for maintaining a consistent GPA of 3.5/4.0 throughout the academic years 2019-2022.
 							</p>
 						</div>
 						<div className={career.companyAlt}></div>
@@ -52,8 +50,7 @@ export default function Education() {
 								<h5>Waterloo, Ontario. September 2023 - April 2024</h5>
 							</span>
 							<p>
-							Graduated with honors (Cum Laude) and Achieved Dean's List Academic Award for maintaining a consistent 
-                            GPA of 3.5/4.0 throughout the academic years 2019-2022.
+							Graduated with honors (Cum Laude) and Achieved Dean's List Academic Award for maintaining a consistent eamuGPA of 3.5/4.0 throughout the academic years 2019-2022.
 							</p>
 						</div>
 						<div className={career.companyAlt}></div>

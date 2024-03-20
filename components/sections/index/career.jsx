@@ -37,7 +37,7 @@ export default function Career() {
 								<h4>July 2022 - Present · 2 yrs </h4>
 								<h5>Nairobi, Nairobi City, Kenya</h5>
 							</span>
-							<p>
+							<p style={{width:"100%"}}>
 								At Jofar Group Ltd, I lead cross-functional project teams, ensuring timely delivery and adherence to quality standards. I establish a reliable infrastructure by implementing AWS and Google Cloud services. Developing RESTful APIs enhances data transfer efficiency between front-end and back-end systems, optimizing application performance. Additionally, close collaboration with the frontend team on API integration improves the overall user experience of our software solutions.
 							</p>
 						</div>

@@ -53,8 +53,7 @@
 	.companyContent {
 		display: flex;
 		flex-direction: column;
-		gap: 1rem;
-		max-width: calc( var(--grid-32) * 20 );
+		gap: 1rem;		
 	}
 
 	.companyPositions {
