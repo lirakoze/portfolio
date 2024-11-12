@@ -43,7 +43,7 @@ export default function About() {
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy="Alongside my technical expertise in cybersecurity and development, I bring strong analytical and problem-solving abilities, demonstrated through my projects in AI development and cloud security. I excel in adapting to emerging technologies, with a particular passion for AI and machine learning applications in cybersecurity. My commitment to continuous learning is evident in my pursuit of advanced education while maintaining professional growth. I have a keen eye for detail and take a methodical approach to solving complex technical challenges."
 						/>
 						<BadgesBlock 
 							title="Reasearch and planning" 
