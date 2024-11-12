@@ -26,9 +26,24 @@ export default function Education() {
 				<SectionTitle
 					title="Education"
 					preTitle="Journey"
-					subTitle="I am currently pursuing a Masters Degree in Software Engineering."
+					subTitle="I am currently pursuing a Masters Degree in Cybersecurity and Threat Intelligence."
 				/>
 				<section className={career.area}>
+
+				<article className={career.company}>
+						<div className={career.companyContent}>
+							<span className={career.companyHeader}>
+								<h3>Masters of Cybesecurity and Threat Intelligence</h3>
+								<h4>University of Guelph</h4>								
+								<h5>Guelph, ON Canada</h5>
+							</span>
+							<p>
+							Currently pursuing a Master's degree in Cybersecurity and Threat Intelligence (2024-2026) at the University of Guelph.
+							</p>
+						</div>
+						<div className={career.companyAlt}></div>
+					</article>
+
 					<article className={career.company}>
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
@@ -42,6 +57,7 @@ export default function Education() {
 						</div>
 						<div className={career.companyAlt}></div>
 					</article>
+
 					<article className={career.company}>
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
@@ -50,7 +66,7 @@ export default function Education() {
 								<h5>Waterloo, Ontario. September 2023 - April 2024</h5>
 							</span>
 							<p>
-							Graduated with honors (Cum Laude) and Achieved Dean&lsquo;s List Academic Award for maintaining a consistent eamuGPA of 3.5/4.0 throughout the academic years 2019-2022.
+							Graduated with distinction and Achieved Dean&lsquo;s List Academic Award for maintaining a consistent GPA of 3.5/4.0 throughout the academic years 2023-2024.
 							</p>
 						</div>
 						<div className={career.companyAlt}></div>
