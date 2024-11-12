@@ -38,7 +38,7 @@ export default function Education() {
 								<h5>Guelph, ON Canada</h5>
 							</span>
 							<p>
-							Currently pursuing a Master's degree in Cybersecurity and Threat Intelligence (2024-2026) at the University of Guelph.
+							Currently pursuing a Master&lsquo;s degree in Cybersecurity and Threat Intelligence (2024-2026) at the University of Guelph.
 							</p>
 						</div>
 						<div className={career.companyAlt}></div>
