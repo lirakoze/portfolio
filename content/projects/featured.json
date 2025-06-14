@@ -1,16 +1,16 @@
 [
 	{
-		"project": "My Supply Co.",
-		"url": "https://mysupplyco.com",
+		"project": "Kodinet",
+		"url": "https://kodinet.cd/",
 		"repo": "Private",
-		"descriptionTitle": "D2C & B2B ecommerce site and blog",
-		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"descriptionTitle": "E-gov Saas Platform",
+		"description": "Kodinet is a government e-services platform that digitizes citizen services, business registration, vehicle licensing, and tax collection through secure web applications and API integrations.",
 		"imageOptions": [
 		],
 		"images": [
-			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/03.png" },
-			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/02.png" },
-			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
+			{ "key": "mock-stack",	"hover": "right", 	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/kodinet.png" },
+			{ "key": "mock-stack",	"hover": "right",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/kodinet2.png" },
+			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/kodinet.png" }
 		],
 		"stack": [
 			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
@@ -27,11 +27,11 @@
 		]
 	},
 	{
-		"project": "andrewnelson.net",
+		"project": "Zando",
 		"url": "https://github.com/atlamors/portfolio",
-		"repo": "Public",
-		"descriptionTitle": "An open source portfolio",
-		"description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+		"repo": "private",
+		"descriptionTitle": "Marketplace Management",
+		"description": "ZANDO offers a transformative approach to marketplace management, ensuring effective monitoring of accounts, payments, and e-commerce activities. ",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
