@@ -32,10 +32,10 @@ export default function Career() {
 					<article className={career.company}>
 						<div className={career.companyContent}>
 							<span className={career.companyHeader}>
-								<h3>Jofar Group Ltd.</h3>
+								<h3>Jofar Group SA.</h3>
 								<h4>Permanent Full-time</h4>
-								<h4>July 2022 - Present · 2 yrs </h4>
-								<h5>Nairobi, Nairobi City, Kenya</h5>
+								<h4>July 2022 - Feb 2025 · 2 yrs 9 mos </h4>
+								<h5>Nairobi, Kenya</h5>
 							</span>
 							<p style={{width:"100%"}}>
 								At Jofar Group Ltd, I lead cross-functional project teams, ensuring timely delivery and adherence to quality standards. I establish a reliable infrastructure by implementing AWS and Google Cloud services. Developing RESTful APIs enhances data transfer efficiency between front-end and back-end systems, optimizing application performance. Additionally, close collaboration with the frontend team on API integration improves the overall user experience of our software solutions.
@@ -47,69 +47,83 @@ export default function Career() {
 					<article className={career.companyPositions}>
 
 						<div className={career.position}>
-							<div className={career.positionContent}>
-								<span class={career.positionHeader}>
-									<h3>Software Engineer | DevOps</h3>
-									<h4>Feb 2020 - Nov 2021 · 1 yrs 10 mos</h4>
-								</span>
-								<p>
-								As the lead full stack developer I am responsible for all software development, CI/CD, and QA. This is for the front end, APIs, and the back end. Additionally I was tasked with identifying and analyzing weak points in the customer journey and employee workflows. Each project had to be estimated and prioritized based on its workload and immediate impact to efficiency or revenue. Some of these projects have been so successful internally that we have planned refactoring for commercialization. 
-								</p>
-								<p>
-								Some key projects complete during this time 👇
-								</p>
-								<ul className={career.list}>
-									<li>
-										Product attribute and settings automated testing
-										<span className={career.subList}><span className={career.bullet}></span>Eradicated critical data input errors</span>
-									</li>
-									<li>
-										Inventory management reporting and automation 
-										<span className={career.subList}><span className={career.bullet}></span>Decreased purchasing labour by ~80%</span>
-									</li>
-									<li>
-										Sales management plugin with AJAX shopping cart integration
-										<span className={career.subList}><span className={career.bullet}></span>Increased AOV by 8.3%</span>
-									</li>
-									<li>
-										Bespoke ID verification software and WooCommerce integration
-										<span className={career.subList}><span className={career.bullet}></span>Decreased Credit Card fraud by 98%</span>
-									</li>
-								</ul>
-								<Badges list={fullStack} block="stack" fullContainer="fullContainer"/>
-							</div>
-							<div className={career.positionAlt}></div>
-						</div>
+	<div className={career.positionContent}>
+		<span class={career.positionHeader}>
+			<h3>Information Technology Project Lead</h3>
+			<h4>Aug 2023 - Feb 2025 · 1 yrs 7 mos</h4>
+		</span>
+		<p>
+		As the IT Project Lead, I was responsible for leading cross-functional development teams across enterprise digital transformation initiatives in mining, transportation, and business registration systems. I managed AWS cloud infrastructure, coordinated Agile workflows, and provided comprehensive IT administration and technical support across multiple departments. Each project required strategic planning, risk assessment, and stakeholder management to ensure on-time delivery and operational excellence.
+		</p>
+		<p>
+		Some key achievements during this tenure 👇
+		</p>
+		<ul className={career.list}>
+			<li>
+				AWS cloud infrastructure migration and optimization
+				<span className={career.subList}><span className={career.bullet}></span>Reduced operational costs by 45%</span>
+			</li>
+			<li>
+				Enterprise system deployment across 5 regions
+				<span className={career.subList}><span className={career.bullet}></span>Achieved 99.5% system availability</span>
+			</li>
+			<li>
+				Technical support and incident management for 500+ users
+				<span className={career.subList}><span className={career.bullet}></span>Maintained 4-hour average resolution time</span>
+			</li>
+			<li>
+				IT service desk operations, user access management, and performance reporting
+				<span className={career.subList}><span className={career.bullet}></span>Implemented ticketing system with 95% satisfaction rate</span>
+			</li>
+			<li>
+				Automated CI/CD pipelines and deployment processes
+				<span className={career.subList}><span className={career.bullet}></span>Reduced deployment time by 60%</span>
+			</li>
+			<li>
+				Server administration and productivity tools maintenance
+				<span className={career.subList}><span className={career.bullet}></span>Managed MS Office 365, OneDrive, and GitHub enterprise</span>
+			</li>
+		</ul>
+		<Badges list={fullStack} block="stack" fullContainer="fullContainer"/>
+	</div>
+	<div className={career.positionAlt}></div>
+</div>
 					
 						<div className={career.position}>
-							<div className={career.positionContent}>
-									<span class={career.positionHeader}>
-										<h3>Backend Developer</h3>
-										<h4>July 2022 - February 2023 · 6 mos</h4>
-									</span>
-								<p>
-									I was brought on to help fill multiple creative rolls in a small start-up environment. Working with the marketing team to create the brand and logos — designing and developing a new front end for the website — and improving the users experience and store KPIs through design and merchandising optimizations.
-								</p>
-								<p>
-									Some key projects completed during this time 👇
-								</p>
-								<ul className={career.list}>
-									<li>
-										Full functionality interactive shopping cart to replace cart page
-										<span className={career.subList}><span className={career.bullet}></span>Increased conversions by 0.7%</span>
-									</li>
-									<li>Complex multi-state animated menus represented in an elegant UI 
-										<span className={career.subList}><span className={career.bullet}></span>Strong brand confidence booster with state of the art menu</span>
-									</li>
-									<li>
-										Design and development of the site and merchandising strategy optimized for market
-										<span className={career.subList}><span className={career.bullet}></span>7.1% overall conversion rate </span>
-									</li>
-								</ul>
-								<Badges list={stack} block="stack" fullContainer="fullContainer"/>
-							</div>
-							<div className={career.positionAlt}></div>
-						</div>
+	<div className={career.positionContent}>
+		<span class={career.positionHeader}>
+			<h3>Software Engineer | Quality Assurance</h3>
+			<h4>July 2022 - July 2023 · 1 year</h4>
+		</span>
+		<p>
+		I was responsible for leading cross-functional project teams for in-house enterprise applications while implementing comprehensive quality assurance protocols. Working across AWS and Google Cloud services, I ensured reliable and scalable infrastructure while optimizing application performance through RESTful API development and rigorous testing methodologies. My role encompassed full project lifecycle management from planning to execution with adherence to quality standards.
+		</p>
+		<p>
+		Some key projects completed during this time 👇
+		</p>
+		<ul className={career.list}>
+			<li>
+				RESTful API development and integration optimization
+				<span className={career.subList}><span className={career.bullet}></span>Improved overall user experience by 15%</span>
+			</li>
+			<li>
+				Cloud infrastructure implementation (AWS & Google Cloud)
+				<span className={career.subList}><span className={career.bullet}></span>Ensured reliable and scalable enterprise-grade infrastructure</span>
+			</li>
+			<li>
+				Quality assurance testing frameworks and automation
+				<span className={career.subList}><span className={career.bullet}></span>Reduced production bugs by 40% through systematic testing</span>
+			</li>
+			<li>
+				Cross-functional team coordination and project delivery
+				<span className={career.subList}><span className={career.bullet}></span>Maintained 100% on-time project completion rate</span>
+			</li>
+		</ul>
+		<Badges list={stack} block="stack" fullContainer="fullContainer"/>
+	</div>
+	<div className={career.positionAlt}>
+	</div>
+</div>
 					</article>
 
 					<article className={career.company}>
